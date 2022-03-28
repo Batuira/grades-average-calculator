@@ -1,0 +1,65 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://www.fismaenfermagem.com.br/wp-content/uploads/2018/09/naom_56bb8d6b08d6c.jpg');
+  background-color: #09679b;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#000000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#000000;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.result {
+  color: #000000;
+  font-size: 30px;
+}
+
+.programer {
+  color: white;
+  position: absolute;
+  bottom: 60px;
+  left: 10px;
+  font-size: 15px;
+}
+
+.logo-github {
+  width: 35px;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  
+  
+}
+
+.logo-linkedin {
+  width: 35px;
+  position: absolute;
+  bottom: 10px;
+  left: 50px;
+}
